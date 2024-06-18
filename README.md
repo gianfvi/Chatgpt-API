@@ -21,8 +21,3 @@ The Rap Battle GPT is an experimental language model that leverages the capabili
 - The `temperature` setting significantly influences the directness and creativity of responses. Values above `1.0` can make the content less comprehensible due to increased creativity.
 - Managing the `top_p` parameter and token count is crucial for fine-tuning the balance between creativity and coherence in the generated lyrics.
 
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone [repository-url]
